@@ -1,0 +1,5 @@
+fastapi==0.104.1
+pyjwt==2.8.0
+uvicorn==0.24.0
+pytest==7.4.3
+pact-python==2.1.1 
